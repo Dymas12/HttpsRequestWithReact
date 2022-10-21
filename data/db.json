@@ -24,6 +24,26 @@
       "name": "Murilo ",
       "price": "0.99",
       "id": 5
+    },
+    {
+      "name": "Mestre",
+      "price": "1.11",
+      "id": 6
+    },
+    {
+      "name": "capa de chuva",
+      "price": "12",
+      "id": 7
+    },
+    {
+      "name": "capa de chuva1",
+      "price": "12",
+      "id": 8
+    },
+    {
+      "name": "Cadeira ",
+      "price": "200",
+      "id": 9
     }
   ]
 }
